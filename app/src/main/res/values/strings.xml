@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TugasIntent</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="no_telp">No Telp</string>
+    <string name="editText_main">Masukan Nama</string>
+    <string name="editText_main1">Masukan Alamat</string>
+    <string name="editText_main2">No Telp</string>
+    <string name="button_share">Share</string>
+    <string name="text_header">Welcome</string>
+    <string name="activity2_name">SecondActivity</string>
+</resources>
